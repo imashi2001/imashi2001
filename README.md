@@ -1,3 +1,4 @@
+<img src="https://th.bing.com/th/id/OIP.tFyVOplHBTp0t0imNSIRBQHaHL?w=226&h=220&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="50" height="50"
 <h1 align="center">Hi 👋, I'm Imashi Chandima</h1>
 <h3 align="center">I am a passionate IT students who thrives to do their best by learning new languages ,technologies and concepts..</h3>
 
