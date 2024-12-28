@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIP.AmnAnZt5uzCI7L-B0_vzvAHaE8?w=272&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="800" height="400"/>
+<img src="[https://th.bing.com/th/id/OIP.AmnAnZt5uzCI7L-B0_vzvAHaE8?w=272&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7](https://th.bing.com/th/id/OIP.rnMTqEQHNfI9NAgCTl2wIQAAAA?w=200&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7)" width="800" height="400"/>
 <h1 align="center">Hi 👋, I'm Imashi Chandima</h1>
 <h3 align="center">I am a passionate IT students who thrives to do their best by learning new languages ,technologies and concepts..</h3>
 
