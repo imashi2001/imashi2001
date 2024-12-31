@@ -1,7 +1,11 @@
 <img src="https://www.bing.com/th/id/OGC.3184fddee90fc94780ca6618c52713ca?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0d%2fa5%2fcb%2f0da5cbca5d728a789100439958f50235.gif&ehk=9u90IxrDO5XFYQAMKWvqKdwg5FiswqF78pObFl6XpQ4%3d" width="1000" height="300"/>
 <h1 align="center">Hi 👋, I'm Imashi Chandima</h1>
 <h3 align="center">I am a passionate IT students who thrives to do their best by learning new languages ,technologies and concepts..</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="imashi2001" /> </p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🔭 I’m currently working on **learning new concepts**
 
@@ -14,6 +18,18 @@
 - 📫 How to reach me **ranaweeraimashi880@gmail.com**
 
 - ⚡ Fun fact **I am a Dog lover**
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+
+</tr>
+</table>
+
+
 ---
 <h3 align="center">My Statistics:</h3>
 <p align="center">
